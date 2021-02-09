@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+关于我 🐱‍👤
+- ⚡ 长期致力于鸡肋漏洞的回收再利用
 <!--
 **Am-ev/Am-ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
