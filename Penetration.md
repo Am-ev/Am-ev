@@ -17,3 +17,6 @@ xmlttp.send(data);
 ## JSONP跟CORS的区别
 JSONP使用script标签，只能发起Get请求，不能发起POST请求
 CORS通过XMLHttpRequest对象使用，可发起任意请求。
+
+## 绕过CORS案例
+https://www.freebuf.com/articles/web/158529.html
